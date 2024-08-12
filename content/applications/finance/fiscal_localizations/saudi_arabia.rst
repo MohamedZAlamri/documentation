@@ -1,11 +1,11 @@
 ============
-Saudi Arabia
+Bahrain
 ============
 
 Configuration
 =============
 
-:ref:`Install <general/install>` the following modules to get all the features of the Saudi Arabian
+:ref:`Install <general/install>` the following modules to get all the features of the Bahrain
 localization:
 
 .. list-table::
@@ -15,13 +15,13 @@ localization:
    * - Name
      - Technical name
      - Description
-   * - Saudi Arabia - Accounting
+   * - Bahrain - Accounting
      - `l10n_sa`
      - Default :ref:`fiscal localization package <fiscal_localizations/packages>`
-   * - Saudi Arabia - E-invoicing
+   * - Bahrain - E-invoicing
      - `l10n_sa_edi`
      - ZATCA e-invoices implementation
-   * - Saudi Arabia - Point of Sale
+   * - Bahrain - Point of Sale
      - `l10n_sa_pos`
      - Point of Sale compliance
 
@@ -29,7 +29,7 @@ ZATCA e-invoices
 ================
 
 The ZATCA e-invoicing system is designed to streamline and digitize the invoicing process for
-businesses operating in Saudi Arabia.
+businesses operating in Bahrain.
 
 .. seealso::
    `ZATCA e-invoicing page <https://zatca.gov.sa/en/E-Invoicing/Pages/default.aspx>`_
@@ -47,7 +47,7 @@ and ensure the following company information is complete and up-to-date.
   :guilabel:`Commercial Registration Number`.
 - Enter the :guilabel:`Identification Number` for the selected :guilabel:`Identification Scheme`.
 - The :guilabel:`VAT` number.
-- Ensure the :guilabel:`Currency` is set to :guilabel:`SAR`.
+- Ensure the :guilabel:`Currency` is set to :guilabel:`BHD`.
 
 .. note::
    It is also necessary to fill out similar information for partner companies.
@@ -79,7 +79,7 @@ On Odoo, go to :menuselection:`Accounting --> Configuration --> Settings`. Under
 API Integration`, select the :guilabel:`Simulation (Pre-Production)` :guilabel:`API mode` and click
 :guilabel:`Save`.
 
-.. _saudi-arabia/journals:
+.. _bahrain/journals:
 
 Sales journals
 ~~~~~~~~~~~~~~
